@@ -2,7 +2,7 @@
 
 **Enterprise Architect · IT Business Relationship Manager · Builder**
 
-Technology leader based in Switzerland with 15+ years bridging C-suite business objectives with IT strategy and digital transformation — across Manufacturing, Supply Chain, and Pharma/Biotech.
+Technology leader bridging business objectives with IT strategy and digital transformation — across Manufacturing, Supply Chain, and Pharma/Biotech.
 
 When I'm not architecting enterprise landscapes, I build open-source tools and tinker with ESP32 hardware projects.
 
