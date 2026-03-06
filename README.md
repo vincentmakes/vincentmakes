@@ -21,20 +21,11 @@ When I'm not architecting enterprise landscapes, I build open-source tools and t
 
 ### What I Do
 
-- **Enterprise Architecture & Governance** — TOGAF Certified, SAP LeanIX Practitioner (L1 & L2), IT strategy roadmaps, Target Operating Models
+- **Enterprise Architecture & Governance** — TOGAF Certified, SAP LeanIX Practitioner, IT strategy roadmaps, Target Operating Models
 - **AI & Digital Transformation** — LLM implementations, AI roadmaps, Agentic AI in Corporate settings
 - **SAP & Enterprise Platforms** — Deep functional experience across PP, MM, QM, WM, SD, PM, PS modules as well as D365 CRM
 - **Hardware & Home Automation** — ESP32, ESPHome, Home Assistant, MVHR control, sensor projects
 
-### Certifications
-
-![TOGAF](https://img.shields.io/badge/TOGAF-EA_Practitioner-0A66C2?style=flat)
-![LeanIX](https://img.shields.io/badge/SAP_LeanIX-Level_1_&_2-0070F2?style=flat)
-![ITIL](https://img.shields.io/badge/ITIL-Foundations-6A1B9A?style=flat)
-
-### Patent
-
-[**EP3772635A1**](https://patents.google.com/patent/EP3772635A1) — Sensing arrangement for a closed container — Piezoelectric sensing through container walls
 
 ### Tech Stack
 
@@ -50,11 +41,5 @@ When I'm not architecting enterprise landscapes, I build open-source tools and t
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
 ![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=flat&logo=esphome&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-
-### Find Me
-
-[![Turbo EA](https://img.shields.io/badge/turbo--ea.org-0A66C2?style=flat&logo=safari&logoColor=white)](https://www.turbo-ea.org)
-[![Blog](https://img.shields.io/badge/Architecting_Tomorrow-Blog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://turbo-ea.org/blog)
-[![GitHub](https://img.shields.io/badge/@vincentmakes-181717?style=flat&logo=github&logoColor=white)](https://github.com/vincentmakes)
 
 ---
