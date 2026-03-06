@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hey, I'm Vincent
 
-<!--
-**vincentmakes/vincentmakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enterprise Architect · IT Business Relationship Manager · Builder**
 
-Here are some ideas to get you started:
+Technology leader based in Switzerland with 15+ years bridging C-suite business objectives with IT strategy and digital transformation — across Manufacturing, Supply Chain, and Pharma/Biotech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not architecting enterprise landscapes, I build open-source tools and tinker with ESP32 hardware projects.
+
+---
+
+### Featured Projects
+
+| Project | Description | 
+|---------|-------------|
+| [**Turbo EA**](https://github.com/vincentmakes/turbo-ea) | Self-hosted open-source Enterprise Architecture Management platform with built-in BPM and MCP server — integrates with Copilot, Gemini, ChatGPT, Claude | 
+| [**ComfoSense-Touch**](https://github.com/vincentmakes/ComfoSense-Touch) | Open-source replacement for Zehnder ComfoSense / ComfoLan C — single firmware for Waveshare hardware | 
+| [**CV Manager**](https://github.com/vincentmakes/cv-manager) | Manage multiple CV versions with a slick, customisable template | 
+| [**Milestone Planner**](https://github.com/vincentmakes/milestone-planner) | Open-source project and resource planning solution | 
+| [**InfinityUSBKnob**](https://github.com/vincentmakes/InfinityUSBKnob) | A smooth infinite USB rotary encoder knob | 
+| [**SaltLevelDetector**](https://github.com/vincentmakes/SaltLevelDetector) | Ultrasonic sensor to monitor salt levels in a BWT water softener tank | 
+
+### What I Do
+
+- **Enterprise Architecture & Governance** — TOGAF Certified, SAP LeanIX Practitioner (L1 & L2), IT strategy roadmaps, Target Operating Models
+- **AI & Digital Transformation** — LLM implementations, AI roadmaps, Agentic AI in Corporate settings
+- **SAP & Enterprise Platforms** — Deep functional experience across PP, MM, QM, WM, SD, PM, PS modules as well as D365 CRM
+- **Hardware & Home Automation** — ESP32, ESPHome, Home Assistant, MVHR control, sensor projects
+
+### Certifications
+
+![TOGAF](https://img.shields.io/badge/TOGAF-EA_Practitioner-0A66C2?style=flat)
+![LeanIX](https://img.shields.io/badge/SAP_LeanIX-Level_1_&_2-0070F2?style=flat)
+![ITIL](https://img.shields.io/badge/ITIL-Foundations-6A1B9A?style=flat)
+
+### Patent
+
+[**EP3772635A1**](https://patents.google.com/patent/EP3772635A1) — Sensing arrangement for a closed container — Piezoelectric sensing through container walls
+
+### Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![LeanIX](https://img.shields.io/badge/LeanIX-0070F2?style=flat)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=powerapps&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
+![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=flat&logo=esphome&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+
+### Find Me
+
+[![Turbo EA](https://img.shields.io/badge/turbo--ea.org-0A66C2?style=flat&logo=safari&logoColor=white)](https://www.turbo-ea.org)
+[![Blog](https://img.shields.io/badge/Architecting_Tomorrow-Blog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://turbo-ea.org/blog)
+[![GitHub](https://img.shields.io/badge/@vincentmakes-181717?style=flat&logo=github&logoColor=white)](https://github.com/vincentmakes)
+
+---
