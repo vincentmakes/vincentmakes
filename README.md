@@ -9,16 +9,14 @@ When I'm not architecting enterprise landscapes, I build open-source tools and t
 ---
 
 ### Featured Projects
-
-| Project | Description | 
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
 |---------|-------------|
-| [**Turbo EA**](https://github.com/vincentmakes/turbo-ea) | Self-hosted open-source Enterprise Architecture Management platform with built-in BPM and MCP server — integrates with Copilot, Gemini, ChatGPT, Claude | 
-| [**ComfoSense-Touch**](https://github.com/vincentmakes/ComfoSense-Touch) | Open-source replacement for Zehnder ComfoSense / ComfoLan C — single firmware for Waveshare hardware | 
-| [**CV Manager**](https://github.com/vincentmakes/cv-manager) | Manage multiple CV versions with a slick, customisable template | 
-| [**Milestone Planner**](https://github.com/vincentmakes/milestone-planner) | Open-source project and resource planning solution | 
-| [**InfinityUSBKnob**](https://github.com/vincentmakes/InfinityUSBKnob) | A smooth infinite USB rotary encoder knob | 
-| [**SaltLevelDetector**](https://github.com/vincentmakes/SaltLevelDetector) | Ultrasonic sensor to monitor salt levels in a BWT water softener tank | 
-
+| [**Turbo&nbsp;EA**](https://github.com/vincentmakes/turbo-ea)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/turbo-ea?style=flat&logo=github&label=⭐) | Self-hosted open-source Enterprise Architecture Management platform with built-in BPM and MCP server — integrates with Copilot, Gemini, ChatGPT, Claude | 
+| [**ComfoSense-Touch**](https://github.com/vincentmakes/ComfoSense-Touch)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/ComfoSense-Touch?style=flat&logo=github&label=⭐) | Open-source replacement for Zehnder ComfoSense / ComfoLan C — single firmware for Waveshare hardware | 
+| [**CV&nbsp;Manager**](https://github.com/vincentmakes/cv-manager)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/cv-manager?style=flat&logo=github&label=⭐) | Manage multiple CV versions with a slick, customisable template | 
+| [**Milestone&nbsp;Planner**](https://github.com/vincentmakes/milestone-planner)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/milestone-planner?style=flat&logo=github&label=⭐) | Open-source project and resource planning solution | 
+| [**InfinityUSBKnob**](https://github.com/vincentmakes/InfinityUSBKnob)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/InfinityUSBKnob?style=flat&logo=github&label=⭐) | A smooth infinite USB rotary encoder knob | 
+| [**SaltLevelDetector**](https://github.com/vincentmakes/SaltLevelDetector)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/SaltLevelDetector?style=flat&logo=github&label=⭐) | Ultrasonic sensor to monitor salt levels in a BWT water softener tank |
 ### What I Do
 
 - **Enterprise Architecture & Governance** — TOGAF Certified, SAP LeanIX Practitioner, IT strategy roadmaps, Target Operating Models
