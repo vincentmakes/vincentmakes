@@ -9,7 +9,7 @@ When I'm not architecting enterprise landscapes, I build open-source tools and t
 ---
 
 ### Featured Projects
-| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp | Description | 
 |---------|-------------|
 | [**Turbo&nbsp;EA**](https://github.com/vincentmakes/turbo-ea)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/turbo-ea?style=flat&logo=github&label=⭐) | Self-hosted open-source Enterprise Architecture Management platform with built-in BPM and MCP server — integrates with Copilot, Gemini, ChatGPT, Claude | 
 | [**ComfoSense-Touch**](https://github.com/vincentmakes/ComfoSense-Touch)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/ComfoSense-Touch?style=flat&logo=github&label=⭐) | Open-source replacement for Zehnder ComfoSense / ComfoLan C — single firmware for Waveshare hardware | 
@@ -17,7 +17,7 @@ When I'm not architecting enterprise landscapes, I build open-source tools and t
 | [**Milestone&nbsp;Planner**](https://github.com/vincentmakes/milestone-planner)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/milestone-planner?style=flat&logo=github&label=⭐) | Open-source project and resource planning solution | 
 | [**InfinityUSBKnob**](https://github.com/vincentmakes/InfinityUSBKnob)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/InfinityUSBKnob?style=flat&logo=github&label=⭐) | A smooth infinite USB rotary encoder knob | 
 | [**SaltLevelDetector**](https://github.com/vincentmakes/SaltLevelDetector)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/SaltLevelDetector?style=flat&logo=github&label=⭐) | Ultrasonic sensor to monitor salt levels in a BWT water softener tank |
-| [**Hoval + Belimo HA Integration**](https://github.com/vincentmakes/canbus_hoval)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/canbus_hoval?style=flat&logo=github&label=⭐) | Ultrasonic sensor to monitor salt levels in a BWT water softener tank |
+| [**Hoval + Belimo HA Integration**](https://github.com/vincentmakes/canbus_hoval)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/canbus_hoval?style=flat&logo=github&label=⭐) | Hoval heating data + Belimo actuator position integrated into a single Home Assistant Dashboard |
 
 ### What I Do
 
