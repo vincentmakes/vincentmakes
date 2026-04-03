@@ -17,6 +17,8 @@ When I'm not architecting enterprise landscapes, I build open-source tools and t
 | [**Milestone&nbsp;Planner**](https://github.com/vincentmakes/milestone-planner)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/milestone-planner?style=flat&logo=github&label=⭐) | Open-source project and resource planning solution | 
 | [**InfinityUSBKnob**](https://github.com/vincentmakes/InfinityUSBKnob)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/InfinityUSBKnob?style=flat&logo=github&label=⭐) | A smooth infinite USB rotary encoder knob | 
 | [**SaltLevelDetector**](https://github.com/vincentmakes/SaltLevelDetector)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/SaltLevelDetector?style=flat&logo=github&label=⭐) | Ultrasonic sensor to monitor salt levels in a BWT water softener tank |
+| [**Hoval + Belimo HA Integration**](https://github.com/vincentmakes/canbus_hoval)&nbsp;·&nbsp;![](https://img.shields.io/github/stars/vincentmakes/canbus_hoval?style=flat&logo=github&label=⭐) | Ultrasonic sensor to monitor salt levels in a BWT water softener tank |
+
 ### What I Do
 
 - **Enterprise Architecture & Governance** — TOGAF Certified, SAP LeanIX Practitioner, IT strategy roadmaps, Target Operating Models
